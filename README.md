@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wellintin1
+- 👋 Hi, I’m @wellingtonMendes
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning HTMl, Css anda JavaScript
 - 💞️ I’m looking to collaborate on Sites our Company
